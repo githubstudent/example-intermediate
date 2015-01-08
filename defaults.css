@@ -1,11 +1,12 @@
 body{
-
+  font: 12px;
 }
 
 h1{
-
+  font-size: 300%;
 }
 
 .jumbotron{
-
+  color: #fff;
+  background: #eee;
 }
