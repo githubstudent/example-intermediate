@@ -1,1 +1,3 @@
-# Example Very Basic Repo
+# Example Very Basic
+
+## Practice repo for Intermediate class
